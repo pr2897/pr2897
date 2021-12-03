@@ -14,7 +14,7 @@
 
 
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=pr2897&show_icons=true&theme=dark&include_all_commits=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2897&show_icons=true)](https://github.com/pr2897)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=pr2897&theme=tokyonight&show_icons=true&include_all_commits=true)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2897&show_icons=true)](https://github.com/pr2897)
 
 
 
