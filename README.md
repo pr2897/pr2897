@@ -6,7 +6,7 @@
 
 
 - 🔭 Full Stack Developer at Crypto Smartlife
-- 🌱 I’m currently learning Docker, AWS
+- 🌱 I’m currently learning Golang
 - 🎧 love solving complex problems.
 - 👯 I’m looking to collaborate on open source projects
 <!--- 💬 Ask me about #Backend technologies #JS #React.js #Redux #Express.js #NodeJS. -->
