@@ -4,11 +4,13 @@
 ## Hi there 👋  
 
 
-
-- 🔭 Full Stack Developer at Crypto Smartlife
-- 🌱 I’m currently learning Golang
-- 🎧 love solving complex problems.
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 SDE-II at NielsenIQ, building scalable and high-performance systems.
+- 🎯 Problem solver at heart, passionate about tackling complex challenges.
+- 🤝 Open-source enthusiast, eager to collaborate and contribute.
+- 🚀 Always learning, exploring cutting-edge technologies and system design.
+- ⚡ Optimizing for impact, turning ideas into efficient, scalable solutions.
+- ✨ Choosing clarity over chaos, focusing on meaningful work and innovation.
+- ✨ I choose peace over pointless noise.
 <!--- 💬 Ask me about #Backend technologies #JS #React.js #Redux #Express.js #NodeJS. -->
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/piyushrajkhg/)
 
