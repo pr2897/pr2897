@@ -21,7 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pr2897&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pr2897&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr2897)](https://github.com/2897/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/pr2897/github-readme-stats)
 
 
