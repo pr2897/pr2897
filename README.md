@@ -4,7 +4,7 @@
 ## Hi there 👋  
 
 
-- 🔭 SDE-II at NielsenIQ, building scalable and high-performance systems.
+- 🔭 Senior Software Engineer at NielsenIQ, building scalable and high-performance systems.
 - 🎯 Problem solver at heart, passionate about tackling complex challenges.
 - 🤝 Open-source enthusiast, eager to collaborate and contribute.
 - 🚀 Always learning, exploring cutting-edge technologies and system design.
